@@ -19,6 +19,6 @@ Calculos de área de triangulo utilizando a formula de heron
 Linguagens, dependencias e libs utilizadas 📚
 
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+<srcset="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 ">
-  </picture>
+ </picture>
