@@ -8,7 +8,7 @@ Um simples codigo para calcular a area de 2 triângulos e compara-los
 
 🔹 Recursos inseridos:
 
-Classes e metodos
+Classes e formulas
 
 🔹 Desenvolvedores/Contribuintes:
 
